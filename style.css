@@ -324,6 +324,10 @@ section {
 #DAA {
     position: relative;
 }
+.section__text__p1 {
+  align-self: center;
+  text-align: center;
+}
 .daa-containers {
     gap: 2rem;
     margin-bottom: 2rem;
@@ -349,27 +353,7 @@ section {
     right: -5rem;
     bottom: 2.5rem;
 }
-  
-.details-container {
-    padding: 1.5rem;
-    flex: 1;
-    background: white;
-    border-radius: 2rem;
-    border: rgb(53, 53, 53) 0.1rem solid;
-    border-color: rgb(163, 163, 163);
-    text-align: center;
-}
-  
-.section-container {
-    gap: 4rem;
-    height: 80%;
-}
-  
-.section__pic-container {
-    height: 400px;
-    width: 400px;
-    margin: auto 0;
-}
+
 
 /* EXPERIENCE SECTION */
 
